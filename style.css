@@ -2,7 +2,7 @@
 Theme Name: 14-Glassy
 Theme URI: https://github.com/kcyeu/14-glassy
 Description: Derived from WordPress 2014 official theme, fine-tuned for mobile devices to improve readability. Support native color scheme and Fourteen Colors Plugin.
-Author: Kuo-Cheng Yeu
+Author: Apn news
 Author URI: http://mikuru.tw/
 Template: twentyfourteen
 Version: 1.0.2
@@ -52,7 +52,11 @@ Text Domain: twentyfourteen-child
 	padding: 0 10px 12px;
 }
 
-
+.header-main {
+background-color: #ffdf;
+padding: 0 10px 10px;	
+	bottom: 0;
+}
 
 /**
  * 9.0 Featured Content
